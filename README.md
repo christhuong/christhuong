@@ -9,7 +9,7 @@ You can either call me Chris or Thuong.
 
 * I like
   + the PRRR stack: PostgreSQL, Ruby, Ruby on Rails and React 😄
-  + cats
+  + cats 🐈
 ```
 <!--
 
