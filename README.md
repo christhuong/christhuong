@@ -1,6 +1,6 @@
 ### Hi there 👋
 ```
-You can either call me Chris or Thuong.
+Hi, my name is Thuong (or Chris), glad to have you here!
 
 * I am a frontend developer, who
   + has experience on #JavaScript and #TypeScript as frontend languages
@@ -11,16 +11,3 @@ You can either call me Chris or Thuong.
   + the PRRR stack: PostgreSQL, Ruby, Ruby on Rails and React 😄
   + cats 🐈
 ```
-<!--
-
-My Vietnamese name is `Thuong`.
-
-My English name is `Chris`.
-
-
-Languages I use everyday: `JavaScript`, `TypeScript` and `Ruby`.
-
-Languages I love and learn: `ReScript` and `Python`.
-
--->
-
